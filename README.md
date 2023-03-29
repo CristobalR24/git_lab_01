@@ -51,3 +51,5 @@ git reset: regresar a un punto de la historia y no realiza un commit.
 git remote add [nombre repositorio] [direccion url del repositorio remoto]: añade un repositorio remoto.
 
 git merge [rama a unir]: permite incorporar los cambios a su origen.
+
+git push [nombre de remoto]: nos permite introducir los cambios al repositorio remoto

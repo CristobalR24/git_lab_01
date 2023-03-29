@@ -2,6 +2,8 @@
 autor: Cristobal Rodriguez
 
 #Conceptos
+control de versiones: permite mantener un historial de cambios en los archivos evitando la perdida de datos
+
 git: herramienta que nos permite realizar el control de versiones
 
 ramas: fragmentos o ramificaciones de la aplicacion, permiten  organizar el trabajo en diferentes funcionalidades

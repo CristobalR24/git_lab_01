@@ -1,16 +1,16 @@
 #Git
-Cristobal Rodriguez
+autor: Cristobal Rodriguez
 
-#conceptos
+#Conceptos
 git: herramienta que nos permite realizar el control de versiones
 
-ramas: fragmentos o ramificaciones de la aplicacion donde se trabajara de manera separada
+ramas: fragmentos o ramificaciones de la aplicacion, permiten  organizar el trabajo en diferentes funcionalidades
 
 merge: proceso de combinar dos o más ramas en  una sola
 
 staging area: donde se ubican localmente los cambios a realizar, esta en la carpeta
 
-#comandos 
+#Comandos 
 git init: inicializa un repositorio
 
 git add [archivo] / git add . : permite subir archivos al staging area*
@@ -29,5 +29,5 @@ git revert: regresar a un punto de la historia y realiza un commit, los cambios 
 	    apareciendo como unstaged
 
 git reset: regresar a un punto de la historia y no realiza un commit
-	git reset --soft: asume que los cambios siguientes no existen
-	git reset --hard: borra de la existencia los cambios siguientes
+	   git reset --soft: asume que los cambios siguientes no existen
+	   git reset --hard: borra de la existencia los cambios siguientes
